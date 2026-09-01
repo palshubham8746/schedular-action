@@ -1,4 +1,4 @@
-name: schedule jobs:
+name: schedule jobs
 
 on:
  schedule:
